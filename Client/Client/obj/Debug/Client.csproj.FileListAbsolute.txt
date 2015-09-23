@@ -1,0 +1,9 @@
+C:\Users\David\Desktop\Programy\Client\Client\bin\Debug\Client.exe.config
+C:\Users\David\Desktop\Programy\Client\Client\bin\Debug\Client.exe
+C:\Users\David\Desktop\Programy\Client\Client\bin\Debug\Client.pdb
+C:\Users\David\Desktop\Programy\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\Programy\Client\Client\obj\Debug\Client.exe
+C:\Users\David\Desktop\Programy\Client\Client\obj\Debug\Client.pdb
+C:\Users\David\Documents\GitHub\BugHouse\Client_\Client\bin\Debug\Client.exe.config
+C:\Users\David\Documents\GitHub\BugHouse\Client_\Client\obj\Debug\Client.exe
+C:\Users\David\Documents\GitHub\BugHouse\Client_\Client\obj\Debug\Client.pdb
